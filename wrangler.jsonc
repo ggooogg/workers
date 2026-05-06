@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cors",
+	"name": "workers",
 	"main": "cors.js",
 	"compatibility_date": "2026-05-03",
 	"observability": {
